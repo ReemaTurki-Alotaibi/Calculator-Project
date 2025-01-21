@@ -3,6 +3,7 @@
 This is a simple Python-based calculator project that supports basic mathematical operations. The project includes functions to perform addition, subtraction, multiplication, division, and more advanced operations like power, square, and square root. It also includes unit tests to verify the correctness of each function.
 
 Features
+
 The calculator supports the following operations:
 
 Addition: add(x, y)
@@ -37,6 +38,7 @@ Example: power(2, 3) => 8
 
 
 Testing
+
 Unit tests are included for each function to ensure correctness. The tests validate:
 
 Correct outputs for valid inputs.
