@@ -1,4 +1,5 @@
-Calculator Project
+**Calculator Project**
+
 This is a simple Python-based calculator project that supports basic mathematical operations. The project includes functions to perform addition, subtraction, multiplication, division, and more advanced operations like power, square, and square root. It also includes unit tests to verify the correctness of each function.
 Features
 The calculator supports the following operations:
